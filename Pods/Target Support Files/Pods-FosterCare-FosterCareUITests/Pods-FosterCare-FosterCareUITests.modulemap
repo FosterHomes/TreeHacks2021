@@ -1,0 +1,6 @@
+framework module Pods_FosterCare_FosterCareUITests {
+  umbrella header "Pods-FosterCare-FosterCareUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

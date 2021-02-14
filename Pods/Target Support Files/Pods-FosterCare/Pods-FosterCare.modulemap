@@ -1,0 +1,6 @@
+framework module Pods_FosterCare {
+  umbrella header "Pods-FosterCare-umbrella.h"
+
+  export *
+  module * { export * }
+}
