@@ -20,7 +20,7 @@ struct ChildrenGallery: View {
             
             VStack{
                 HStack {
-                    Text("Host A Child!")
+                    Text("Meet the Kids")
                         .font(.title)
                         .fontWeight(.bold)
                     Spacer()
